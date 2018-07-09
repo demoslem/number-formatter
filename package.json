@@ -1,0 +1,19 @@
+{
+  "name": "device_passwords",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demoslem/number-formatter.git"
+  },
+  "author": "“Mohamed <“mhs.guc@gmail.com”> (“http://www.magicmikemovie.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demoslem/number-formatter/issues"
+  },
+  "homepage": "https://github.com/demoslem/number-formatter#readme"
+}
